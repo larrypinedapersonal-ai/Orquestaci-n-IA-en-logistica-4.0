@@ -2,6 +2,7 @@
 
 ## 📋 Descripción del Proyecto
 Proyecto de automatización y gestión logística avanzada enfocado en optimizar la cadena de suministro internacional (*supply chain*), unificando procesos para transitarias *inbound* y navieras mediante flujos automatizados de datos.
+![Diagrama de Flujo n8n](IMG-20261119-WA0004.jpg)
 
 ## ⚙️ Arquitectura del Flujo de Automatización (Workflow)
 El sistema implementa un pipeline automatizado en **n8n** para el procesamiento masivo de registros:
