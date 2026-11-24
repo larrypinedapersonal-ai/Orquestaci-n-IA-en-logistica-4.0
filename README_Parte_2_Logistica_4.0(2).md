@@ -1,4 +1,5 @@
 # Orquestación de IA y Asistentes Virtuales en Logística 4.0
+<img width="852" height="526" alt="SECOND PART 2" src="https://github.com/user-attachments/assets/bc46e48b-a2c4-4e09-b68d-5814e37bc642" />
 
 ## 📋 Descripción del Proyecto -- Parte 2
 
